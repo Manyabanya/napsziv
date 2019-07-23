@@ -8,4 +8,4 @@ Adobe Illustrator, Adobe Photoshop
 Hungarian
 
 ### Live preview
-http://pegimawebdesign.com/napsziv_webdesign.html
+http://pegimawebdesign.com/img/mimi-mockup.jpg
